@@ -1,0 +1,2 @@
+# ModifiedAssetFinder
+UnityのAssetsフォルダとunitypackageの差異を調べるツール
